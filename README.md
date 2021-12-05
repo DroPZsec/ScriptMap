@@ -12,6 +12,6 @@ Scan only your own Networks and Networks, who you have permissions to scan.
 
 #################################Install guide##############################
 You just need Nmap (sudo apt.get install nmap),
-and co to the "scripts" folder and type "chmod +x *".
+and co to the "scripts" folder and type "chmod +x *" after unzip.
 Thast´s it!
 ============================================================================
